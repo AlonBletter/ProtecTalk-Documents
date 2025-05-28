@@ -26,11 +26,3 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 | ProtecTalk GitHub Repo | Contains all application code, build scripts, and dev resources. | 🔗 [Open](https://github.com/yair865/ProtecTalk-Server) |
 
 ---
-
-## 📌 Notes
-
-- All documents are version-controlled through this repository.
-- Please keep the Innovation Hub Master Document aligned with updates here.
-- For any issues or feature requests, use the GitHub Issues tab.
-
----
