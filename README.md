@@ -23,6 +23,9 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| ProtecTalk GitHub Repo | Contains all application code, build scripts, and dev resources. | 🔗 [Open](https://github.com/yair865/ProtecTalk-Server) |
+| ProtecTalk Server | Backend server | 🔗 [Open](https://github.com/AlonBletter/protectalk-server) |
+| ProtecTalk Client | Android client | 🔗 [Open](https://github.com/AlonBletter/protectalk-client) |
+
 
 ---
+
