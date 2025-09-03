@@ -4,6 +4,16 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 
 ---
 
+
+## 💻 Source Code
+
+| Repository | Description | Link |
+|------------|-------------|------|
+| ProtecTalk Server | Backend server | 🔗 [Open](https://github.com/AlonBletter/protectalk-server) |
+| ProtecTalk Client | Android client | 🔗 [Open](https://github.com/AlonBletter/protectalk-client) |
+
+---
+
 ## 📄 Documents
 
 | Document | Description | Link |
@@ -19,13 +29,4 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 
 ---
 
-## 💻 Source Code
-
-| Repository | Description | Link |
-|------------|-------------|------|
-| ProtecTalk Server | Backend server | 🔗 [Open](https://github.com/AlonBletter/protectalk-server) |
-| ProtecTalk Client | Android client | 🔗 [Open](https://github.com/AlonBletter/protectalk-client) |
-
-
----
 
