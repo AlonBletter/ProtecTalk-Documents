@@ -40,9 +40,11 @@ This provides timely and reliable feedback that helps protect people from fraudu
 > 💡 For a consolidated overview of all innovation hub insights, plans, and references, see the [Innovation Hub Master Document](https://docs.google.com/document/d/1mW2q-NrUAWAoySqPZlQFH2TFIjNUH00t0NGWPTk3MFg/edit?usp=sharing).
 
 ---
+
 ## 🧩 Application Architecture
 
 ![architecture_white_75](https://github.com/user-attachments/assets/6e9a1b6a-039e-404e-bc31-1ed1dfbd8e4c)
+
 
 
 
