@@ -12,8 +12,7 @@ These schemes can lead to substantial financial losses and lasting emotional har
 
 ## 💡 Solution
 ProtecTalk is a mobile app that helps users identify potential scam calls after the call ends.  
-The service records the call audio, converts it to text, and analyzes it with AI models to detect scam patterns.  
-Once the analysis is complete, the system alerts both the user and a trusted contact configured in advance.  
+The system alerts both the user and a trusted contact configured in advance.  
 This provides timely and reliable feedback that helps protect people from fraudulent activity.
 
 ---
@@ -44,5 +43,6 @@ This provides timely and reliable feedback that helps protect people from fraudu
 ## 🧩 Application Architecture
 
 ![architecture_white_75](https://github.com/user-attachments/assets/6e9a1b6a-039e-404e-bc31-1ed1dfbd8e4c)
+
 
 
