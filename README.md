@@ -36,6 +36,8 @@ This provides timely and reliable feedback that helps protect people from fraudu
 | Data Management | Defines data structure, storage logic, and database schema. | 🔗 [Download](Software%20Documents/ProtecTalk%20-%20Data%20Management.docx) |
 | High Level Design | Abstract architectural overview and component responsibilities. | 🔗 [Download](Software%20Documents/ProtecTalk%20-%20High%20Level%20Design.docx) |
 | Tech Structure (PPTX) | Presentation format breakdown of technology stack and system layers. | 🔗 [Download](Software%20Documents/ProtecTalk%20-%20Tech%20Structure.pptx) |
+| API Documentation | Documentation of all application endpoints. | 🔗 [Download](Software%20Documents/ProtecTalk%20-%20API.docx) |
+
 
 > 💡 For a consolidated overview of all innovation hub insights, plans, and references, see the [Innovation Hub Master Document](https://docs.google.com/document/d/1mW2q-NrUAWAoySqPZlQFH2TFIjNUH00t0NGWPTk3MFg/edit?usp=sharing).
 
@@ -44,6 +46,7 @@ This provides timely and reliable feedback that helps protect people from fraudu
 ## 🧩 Application Architecture
 
 ![architecture_white_75](https://github.com/user-attachments/assets/6e9a1b6a-039e-404e-bc31-1ed1dfbd8e4c)
+
 
 
 
