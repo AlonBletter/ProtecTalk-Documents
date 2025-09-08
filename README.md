@@ -5,9 +5,8 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 ---
 
 ## ⚠️ Problem
-Phone scams are a growing threat worldwide, causing people to lose money and sensitive personal data every day.  
-Existing protections like call blocking or spam filters are limited, since scammers constantly change phone numbers  
-and social engineering techniques. Many victims only realize they've been scammed after it’s too late.
+Phone scams pose a significant threat to individuals worldwide, with scammers often targeting those who may be less familiar with technology.
+These schemes can lead to substantial financial losses and lasting emotional harm.
 
 ---
 
@@ -45,4 +44,5 @@ This provides timely and reliable feedback that helps protect people from fraudu
 ## 🧩 Application Architecture
 
 ![architecture_white_75](https://github.com/user-attachments/assets/6e9a1b6a-039e-404e-bc31-1ed1dfbd8e4c)
+
 
