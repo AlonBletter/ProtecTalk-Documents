@@ -5,16 +5,14 @@ Welcome to the centralized hub for all **ProtecTalk** software documentation and
 ---
 
 ## ⚠️ Problem
-Phone scams are a growing threat worldwide, causing people to lose money and sensitive personal data every day.  
-Existing protections like call blocking or spam filters are limited, since scammers constantly change phone numbers  
-and social engineering techniques. Many victims only realize they've been scammed after it’s too late.
+Phone scams pose a significant threat to individuals worldwide, with scammers often targeting those who may be less familiar with technology.
+These schemes can lead to substantial financial losses and lasting emotional harm.
 
 ---
 
 ## 💡 Solution
 ProtecTalk is a mobile app that helps users identify potential scam calls after the call ends.  
-The service records the call audio, converts it to text, and analyzes it with AI models to detect scam patterns.  
-Once the analysis is complete, the system alerts both the user and a trusted contact configured in advance.  
+The system alerts both the user and a trusted contact configured in advance.  
 This provides timely and reliable feedback that helps protect people from fraudulent activity.
 
 ---
@@ -42,6 +40,9 @@ This provides timely and reliable feedback that helps protect people from fraudu
 > 💡 For a consolidated overview of all innovation hub insights, plans, and references, see the [Innovation Hub Master Document](https://docs.google.com/document/d/1mW2q-NrUAWAoySqPZlQFH2TFIjNUH00t0NGWPTk3MFg/edit?usp=sharing).
 
 ---
+## 🧩 Application Architecture
+
+![architecture_white_75](https://github.com/user-attachments/assets/6e9a1b6a-039e-404e-bc31-1ed1dfbd8e4c)
 
 
 
